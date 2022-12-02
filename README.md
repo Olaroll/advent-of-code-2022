@@ -4,6 +4,8 @@
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
+Using the wonderful project template from here: https://github.com/fspoettel/advent-of-code-rust
+
 ## Journal
 
 ### Day 01
