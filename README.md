@@ -7,7 +7,7 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 Using the wonderful project template from here: https://github.com/fspoettel/advent-of-code-rust
 
 ## Journal
-
+###### All times are relative to when I started, not when the task was opened.
 ### Day 01
 #### Part 1: 00:40:46 --> Part 2: 00:09:12
 - Spent quite a while figuring out how to iterate over each elf separately as a chunk.
@@ -18,3 +18,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 - Went with simple match statements for the RPS logic.
 - Quite happy with how the input iterating and parsing turned out.
 - Had a bit of a brain fart at one point and lost like 10 mins >_<
+
+### Day 03
+#### Part 1: 00:40:46 --> Part 2: 00:09:12
+- Spent most of the time figuring out HashSet intersections.
+- This task took some fiddling to satisfy the borrow checker.
