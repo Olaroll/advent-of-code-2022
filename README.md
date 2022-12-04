@@ -23,3 +23,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 00:24:07 --> Part 2: 00:45:16
 - Spent most of the time figuring out HashSet intersections.
 - This task took some fiddling to satisfy the borrow checker.
+
+### Day 04
+#### Part 1: 00:36:33 --> Part 2: 00:42:22
+- Was fun to fiddle with iterators to find a clean solution.
+- I'm on the fence about whether I should go full tryhard without caring about the quality of my solution.
