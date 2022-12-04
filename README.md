@@ -20,6 +20,6 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 - Had a bit of a brain fart at one point and lost like 10 mins >_<
 
 ### Day 03
-#### Part 1: 00:40:46 --> Part 2: 00:09:12
+#### Part 1: 00:24:07 --> Part 2: 00:45:16
 - Spent most of the time figuring out HashSet intersections.
 - This task took some fiddling to satisfy the borrow checker.
