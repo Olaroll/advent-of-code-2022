@@ -28,3 +28,7 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 00:36:33 --> Part 2: 00:42:22
 - Was fun to fiddle with iterators to find a clean solution.
 - I'm on the fence about whether I should go full tryhard without caring about the quality of my solution.
+- 
+### Day 05
+#### Part 1: 01:11:42 --> Part 2: 00:23:33
+- Today's inputs were super annoying to parse :c
