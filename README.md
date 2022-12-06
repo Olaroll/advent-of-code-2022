@@ -20,15 +20,19 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 - Had a bit of a brain fart at one point and lost like 10 mins >_<
 
 ### Day 03
-#### Part 1: 00:24:07 --> Part 2: 00:45:16
+#### Part 1: 00:24:07 --> Part 2: 00:21:09
 - Spent most of the time figuring out HashSet intersections.
 - This task took some fiddling to satisfy the borrow checker.
 
 ### Day 04
-#### Part 1: 00:36:33 --> Part 2: 00:42:22
+#### Part 1: 00:36:33 --> Part 2: 00:05:49
 - Was fun to fiddle with iterators to find a clean solution.
 - I'm on the fence about whether I should go full tryhard without caring about the quality of my solution.
-- 
+
 ### Day 05
 #### Part 1: 01:11:42 --> Part 2: 00:23:33
 - Today's inputs were super annoying to parse :c
+
+### Day 05
+#### Part 1: 00:10:09 --> Part 2: 00:00:28
+- Simple as can be with the windows iterator :)
