@@ -41,3 +41,7 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 02:26:01 --> Part 2: 00:04:21
 - I couldn't come up with any clever tricks, so I went ahead and parsed the whole file system into a proper tree.
 - It was my first time making a tree in rust. It was hard, as expected :p
+
+### Day 08
+#### Part 1: 00:33:43 --> Part 2: 01:02:51
+- Today I had to completely rewrite my solution for part 2
