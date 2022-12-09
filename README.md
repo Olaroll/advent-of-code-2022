@@ -45,3 +45,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 ### Day 08
 #### Part 1: 00:33:43 --> Part 2: 01:02:51
 - Today I had to completely rewrite my solution for part 2
+
+### Day 9
+#### Part 1: 00:38:03 --> Part 2: 00:27:39
+- Today's task was fun! Cool to see rope-like behaviour from such a simple system.
+- Quite happy with the abstractions I came up with for today :)
