@@ -50,3 +50,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 00:38:03 --> Part 2: 00:27:39
 - Today's task was fun! Cool to see rope-like behaviour from such a simple system.
 - Quite happy with the abstractions I came up with for today :)
+
+### Day 10
+#### Part 1: 01:12:11 --> Part 2: 00:29:58
+- Another great task! Really enjoyed finding the output for part 2 :D
+- Took some fiddling to get the generics right, but it works nicely in the end.
