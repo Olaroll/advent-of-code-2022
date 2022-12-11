@@ -55,3 +55,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 01:12:11 --> Part 2: 00:29:58
 - Another great task! Really enjoyed finding the output for part 2 :D
 - Took some fiddling to get the generics right, but it works nicely in the end.
+
+### Day 11
+#### Part 1: 02:14:19 --> Part 2: 02:40:58
+- Had to look for a hint for part 2 today. Turns out I was really close even before that, but I just didn't make the final connection.
+- Did some really dumb mistakes in part 2, mostly related to integer overflow.
