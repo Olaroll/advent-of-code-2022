@@ -60,3 +60,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 02:14:19 --> Part 2: 02:40:58
 - Had to look for a hint for part 2 today. Turns out I was really close even before that, but I just didn't make the final connection.
 - Did some really dumb mistakes in part 2, mostly related to integer overflow.
+
+### Day 12
+#### Part 1: 03:28:52 --> Part 2: 00:03:02
+- Got distracted for like 2 hours in the middle of part 1.
+- I guess this is the obligatory Dijkstra day :D

@@ -8,11 +8,13 @@ publish = false
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-pico-args = "0.5.0"
-rayon = "1.6.0"
-itertools = "0.10.5"
+pico-args = "0.5"
+rayon = "1"
+itertools = "0.10"
 regex = "1"
 meval = "0.2"
 lazy_static = "1"
 anyhow = "1"
 derivative = "2"
+glam = "0.22"
+priority-queue = "1"
