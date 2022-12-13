@@ -48,7 +48,7 @@ impl Ord for Item {
                             EitherOrBoth::Right(_) => Ordering::Less,
                         }
                     })
-                    .find(|res| !matches!(res, Ordering::Equal))
+                    .find(|res| res != &Ordering::Equal)
                     .unwrap_or(Ordering::Equal)
             }
             (Self::Int(l), Self::List(_)) => {
