@@ -65,3 +65,7 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 03:28:52 --> Part 2: 00:03:02
 - Got distracted for like 2 hours in the middle of part 1.
 - I guess this is the obligatory Dijkstra day :D
+
+### Day 13
+#### Part 1: 01:39:49 --> Part 2: 00:22:52
+- I *really* like the solution I came up with today! Felt like I'm using Rust to it's fullest :D
