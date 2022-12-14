@@ -69,3 +69,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 ### Day 13
 #### Part 1: 01:39:49 --> Part 2: 00:22:52
 - I *really* like the solution I came up with today! Felt like I'm using Rust to it's fullest :D
+
+### Day 14
+#### Part 1: 02:54:11 --> Part 2: 00:15:27
+- Got distracted a lot during part 1, so it's way longer than it should be.
+- Used the `nom` parser crate today, and it worked out great! I'm definitely a fan now c:
