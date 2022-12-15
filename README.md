@@ -74,3 +74,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 02:54:11 --> Part 2: 00:15:27
 - Got distracted a lot during part 1, so it's way longer than it should be.
 - Used the `nom` parser crate today, and it worked out great! I'm definitely a fan now c:
+
+### Day 15
+#### Part 1: 04:14:18 --> Part 2: 03:17:04
+- Today was quite tough. Worked on it throughout the day.
+- Part 2 had a 1-hour runtime at the beginning, but now it's down to 36ms :D
