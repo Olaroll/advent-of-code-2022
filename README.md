@@ -79,3 +79,8 @@ Using the wonderful project template from here: https://github.com/fspoettel/adv
 #### Part 1: 04:14:18 --> Part 2: 03:17:04
 - Today was quite tough. Worked on it throughout the day.
 - Part 2 had a 1-hour runtime at the beginning, but now it's down to 36ms :D
+
+### Day 16
+#### Part 1: 12:11:52 --> Part 2: 01:43:27
+- Was getting tired, so I slept on today's problem.
+- Definitely the toughest task til now. I haven't used DP much, so this was a good way to learn more.
