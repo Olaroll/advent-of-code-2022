@@ -3,7 +3,6 @@ use glam::IVec2;
 use itertools::Itertools;
 use crate::parsers::parse_input;
 use rayon::prelude::*;
-use rust_lapper::{Lapper, Interval};
 
 #[derive(Debug, Clone)]
 struct Sensor {
